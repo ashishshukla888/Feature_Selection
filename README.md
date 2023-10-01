@@ -13,8 +13,6 @@ Filter methods used to identify the features that contribute the most to our mod
   - [ANOVA (Analysis of Variance)](#anova)
   - [Chi-Square Test](#chi-square-test)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
